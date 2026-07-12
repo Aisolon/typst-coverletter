@@ -39,7 +39,7 @@
   first-line-indent: 2em,
   line-spacing: 0.65em,
   paragraph-spacing: 0.8em,
-  contact-separator: " | ",
+  contact-separator: "     ",
   // Header alignment
   name-align: center,
   address-align: center,
@@ -252,7 +252,7 @@
   first-line-indent: 2em,
   line-spacing: 0.65em,
   paragraph-spacing: 0.8em,
-  contact-separator: " | ",
+  contact-separator: " #h(2em) ",
   // Header alignment
   name-align: center,
   address-align: center,
