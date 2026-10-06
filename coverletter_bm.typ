@@ -17,7 +17,7 @@
   ),
   recipient: (
     start-title: [Sehr geehrte Damen und Herren,],
-    cl-title: [Bewerbung als Machine test Learning Engineer für Wetterdatenverabeitung],
+    cl-title: [Bewerbung als Machine Learning Engineer für Wetterdatenverabeitung],
     date: [\6. Oktober 2026],
     department: [],// [Department of Example],
     institution: [WetterOnline],
